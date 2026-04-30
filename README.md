@@ -13,4 +13,4 @@ Este projeto apresenta uma análise de dados de e-commerce utilizando Python e P
 - Power BI
 
 ## Relatório Executivo
-[Download do relatório](Graficos_TCH (1).pdf)
+[Download do relatório](relatorio_executivo.pdf)
